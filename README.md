@@ -7,10 +7,11 @@
 
 Os capítulos cobrem os seguinte conteúdos
 
+As repostas dos exercícios teóricos podem ser encontradas [nesse](https://github.com/biancaportela/ISL-python-pt/blob/main/ISL_conceituais.pdf) documento.
 
 **Capítulos**                                | **Exercícios práticos**
 -------------------------------------------|--------------------------
-What is statistical learning?                                           | [Cap 2]()
+What is statistical learning?                                           | [Cap 2](https://github.com/biancaportela/ISL-python-pt/blob/main/exercicios_aplicados/cap_2.ipynb)
 Regression                                  | 
 Classification                              | 
 Resampling methods                          |
